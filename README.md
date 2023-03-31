@@ -1,2 +1,2 @@
-# Module-2-Coding-Assignment_solution
+# Module-2-Coding-Assignment
 First Assignment for coding.
